@@ -2429,7 +2429,7 @@ button, .button {
     padding-left: 15px;
     font-size: .80em;
     letter-spacing: 1px;
-    font-weight: 300;
+    font-weight: 500;
     background: #f2eeeb; }
     .top-bar-section ul li > a.button {
       background: #f2eeeb;
@@ -3358,6 +3358,10 @@ ul.pagination {
     display: inline-block; }
 
 /* Panels */
+.lident {
+    margin-left: 20px;
+
+}
 .panel {
   border-style: solid;
   border-width: 0px;
@@ -3368,6 +3372,7 @@ ul.pagination {
     margin-top: 0; }
   .panel > :last-child {
     margin-bottom: 1.25em; }
+
   .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p {
     color: #083c47; }
   .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6 {
