@@ -14,8 +14,10 @@ body {
 }
 
 @media (max-width: 782px) {
-  body {font-size: 80%; }
+  body {font-size: 80%;}
 }
+
+
 body {
   background: #f2eeeb;
   color: #010101;
@@ -34,6 +36,7 @@ a:hover {
 
 a:focus {
   outline: none; }
+
 
 img,
 object,
@@ -2620,11 +2623,11 @@ button, .button {
         right: 100%; }
 
   .no-js .top-bar-section ul li:hover > a {
-    background: #090909;
-    color: white; }
+    background: #dfe8eb;
+    color: #1f65a0; }
   .no-js .top-bar-section ul li:active > a {
-    background: #090909;
-    color: white; }
+    background: #dfe8eb;
+    color: #1f65a0; }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
     visibility: visible; } }
 @-webkit-keyframes rotate {
